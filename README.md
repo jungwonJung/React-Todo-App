@@ -3,6 +3,9 @@
 ## [TODO APP](https://exquisite-puffpuff-daf564.netlify.app/) # Check this Service
 
 
+![todo](https://github.com/jungwonJung/React-Todo-App/assets/63602609/84a02f86-9271-49ea-8fe2-66e4bafc0c0e)
+
+
 An app for writing down personal to-do lists for the day and being able to delete completed items.
 
 
