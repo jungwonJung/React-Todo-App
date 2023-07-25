@@ -29,7 +29,7 @@ To get started with the React-Node Community App, follow the steps below:
 1.  Clone the repository:
 
    ```
-   git clone  https://github.com/jungwonJung/React-Node-Community-app.git
+   git clone https://github.com/jungwonJung/React-Todo-App.git
    ```
 
 2.  Install the dependencies:
